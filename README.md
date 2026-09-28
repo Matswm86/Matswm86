@@ -21,7 +21,7 @@ reviews yesterday and last week against what the news wire actually ran, and say
 the tape moved for reasons the headlines had nothing to do with. Python, no front-end framework.
 
 **[TradingView Indicators](https://github.com/Matswm86/tradingview-indicators)**
-Six Pine Script v6 chart tools for intraday futures. The liquidity-sweep indicator has over 200
+Seven Pine Script v6 chart tools for intraday futures. The liquidity-sweep indicator has over 200
 likes on TradingView, which is the only audience number here I did not have to qualify. Every
 script ships its reasoning: what it refuses to trade and why, not just where it draws a line.
 I also offer more advanced indicators for a monthly fee now via Whop. 

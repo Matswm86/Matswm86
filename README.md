@@ -1,8 +1,8 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Twenty-four public repositories,
-thirteen live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
+with an AI coding assistant, and everything below runs today. **Twenty-five public repositories,
+many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. I have started on my python education and will take my first Azure certification in October and hopefully land a real job doing something AI related soon! 
 
 I am most interested in the part where AI stops being a chatbot and becomes infrastructure:

@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Twenty-five public repositories,
+with an AI coding assistant, and everything below runs today. **Twenty-six public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. I have started on my Python education, will take my first Azure certification (AI-901) in October, and hopefully land a real job doing something AI related soon! 
 
@@ -15,7 +15,7 @@ My personal interest of trading and physics/philosophy aligns well with this and
 ### Start here
 
 **[The Morning Brief](https://github.com/Matswm86/mwm-morning-brief)** · live at [brief.mwmai.no](https://brief.mwmai.no/)
-A trading newspaper for MNQ and MGC futures that typesets itself three times a day, now in its
+A trading newspaper for MNQ and MGC futures that typesets itself through the day, now in its
 third broadsheet edition: rotating headlines, masthead ears and a Funny Pages strip. It forecasts
 how *big* the session will be, never which direction, and prints its own hit rate next to every
 call. A 15:25 Oslo regime lens and an intraday read validated on 252 held-out sessions sit beside
@@ -49,7 +49,7 @@ stay permanently offline. Not tied to one vendor.
 
 | Repo | What it is |
 |---|---|
-| [vivarium-agent-skills](https://github.com/Matswm86/vivarium-agent-skills) | A sourced reference pack for building glass habitats, written as 52 plain-Markdown files any model can read. Every number a decision rests on carries a URL; gaps say UNVERIFIED instead of guessing |
+| [vivarium-agent-skills](https://github.com/Matswm86/vivarium-agent-skills) | A sourced reference pack for building glass habitats, written as 56 plain-Markdown files any model can read. Every number a decision rests on carries a URL; gaps say UNVERIFIED instead of guessing |
 | [mwm-harness](https://github.com/Matswm86/mwm-harness) | Work in progress: my own agent harness for Qwen, Kimi and GLM, with a terminal prompt, a local browser panel, permissions, a sandbox, hooks, MCP and subagents |
 | [glm-free-claude-code](https://github.com/Matswm86/glm-free-claude-code) | Run free GLM 5.2 behind Claude Code: a full GLM session, one-shot offloads from a paid session, or a whole task handed to a headless GLM agent |
 | [fenrir-boss](https://github.com/Matswm86/fenrir-boss) | A simulated workplace that trains you: an AI boss who assigns tickets, reviews your code and never writes it |
@@ -68,7 +68,7 @@ internet permission at all.
 | [mwm-compass](https://github.com/Matswm86/mwm-compass) | New: a plain, precise retro compass with magnetic or true north, a bearing mark and a bubble level. No internet permission |
 | [mwm-cloud](https://github.com/Matswm86/mwm-cloud) | Backs your phone up to storage you own, then proves the backup actually worked |
 | [pm98-android](https://github.com/Matswm86/pm98-android) | Premier Manager 98 rebuilt from the original game's own files, full 1997-98 database |
-| [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of 1990s games from their own data, not from memory |
+| [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of older games from their own data, not from memory |
 | [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [tile-explorer](https://github.com/Matswm86/tile-explorer) | Small puzzle games in Godot 4. Tile Explorer just moved onto a walnut table with a felt mat |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [play.mwmai.no](https://play.mwmai.no/), honest about what the research does and does not show |
 

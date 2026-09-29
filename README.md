@@ -81,6 +81,21 @@ blur it.
 
 ---
 
+### How the system is engineered
+
+AI agents write most of the code. I design the architecture, set the rules they work under,
+review what comes back and decide what ships. The part I own looks like this (counts measured
+2026-09-29):
+
+| Area | What is in place |
+|---|---|
+| **Architecture** | About 50 projects, one repository each, around a shared core of MCP tool servers, Qdrant and Neo4j. Trading and creative work are kept apart by a guard that blocks one domain's tools in the other's sessions. Shared config has one canonical copy; syncing it into repos is an explicit step that refuses to run mid-commit |
+| **Guardrails on the AI** | Around 30 Claude Code hooks at every point of an agent's turn: they block writes outside the workspace, warn before destructive shell commands and enforce 56 written rules. A change of 50+ lines to core code starts an independent reviewer agent; claims about third-party products get checked against vendor docs before I read them |
+| **Separation of duties** | 32 specialist subagents split into builders and auditors. The agent that writes a backtest engine never grades it; one auditor checks the fill logic, another the results. "Tests pass" counts only with the pasted output |
+| **Security** | Secret scanning (detect-secrets) on every commit in 13 repos, pip-audit in CI, strict Content-Security-Policy on the public sites. AI tools have read-only access to the trading account and no path to place an order. A prompt-injection honeypot runs weekly against a fixed pass floor |
+| **CI/CD and testing** | 21 repos build and test in GitHub Actions, including every Android APK. Pre-commit runs ruff, formatting and secret checks, never skipped. Over 250 test files across the core system and the trading platform |
+| **Research discipline** | Pass/fail bars are written before a backtest runs, and engines are audited for fills the market would never give you. 56 failed ideas sit in a register so nobody re-runs them hoping for luck. Anything that fails quietly must leave a tag, a counter and a log line |
+
 ### How I work
 
 - **Measure, then claim.** Numbers in my repos carry the date they were measured. When something

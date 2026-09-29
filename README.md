@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Twenty-five public repositories,
+with an AI coding assistant, and everything below runs today. **Twenty-six public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. I have started on my Python education, will take my first Azure certification (AI-901) in October, and hopefully land a real job doing something AI related soon! 
 
@@ -41,7 +41,8 @@ phone keyboard is miserable and pretending otherwise helps nobody.
 A bootable AI-native Linux distribution: Ubuntu, KDE, a local model and an agent CLI, installed
 in about ten minutes. **You choose the model and the provider.** It ships a small local model so
 it works offline on first boot, and you can swap it, point it at your own hosted account, or
-stay permanently offline. Not tied to one vendor.
+stay permanently offline. Not tied to one vendor. There is no public ISO download right now, so
+today you build it from the repo.
 
 ---
 
@@ -70,6 +71,7 @@ internet permission at all.
 | [pm98-android](https://github.com/Matswm86/pm98-android) | Premier Manager 98 rebuilt from the original game's own files, full 1997-98 database |
 | [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of older games from their own data, not from memory. sar2007-android is still at the stage of unpacking the game's files |
 | [fishy](https://github.com/Matswm86/fishy) | The 2003 Flash game Fishy on Android, with its original art, music and rules: eat the smaller fish, stay away from the bigger ones |
+| [krypton-egg](https://github.com/Matswm86/krypton-egg) | Krypton Egg, the Breakout game from the 1996 C2V Games Suite CD, on Android: all 100 levels, the art and the sound come off the original disc |
 | [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [tile-explorer](https://github.com/Matswm86/tile-explorer) | Small puzzle games in Godot 4. Tile Explorer just moved onto a walnut table with a felt mat |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [play.mwmai.no](https://play.mwmai.no/), honest about what the research does and does not show |
 

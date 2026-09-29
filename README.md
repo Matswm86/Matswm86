@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Twenty-four public repositories,
+with an AI coding assistant, and everything below runs today. **Twenty-five public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. I have started on my Python education, will take my first Azure certification (AI-901) in October, and hopefully land a real job doing something AI related soon! 
 
@@ -53,7 +53,7 @@ stay permanently offline. Not tied to one vendor.
 | [mwm-harness](https://github.com/Matswm86/mwm-harness) | Work in progress: my own agent harness for Qwen, Kimi and GLM, with a terminal prompt, a local browser panel, permissions, a sandbox, hooks, MCP and subagents |
 | [glm-free-claude-code](https://github.com/Matswm86/glm-free-claude-code) | Run free GLM 5.2 behind Claude Code: a full GLM session, one-shot offloads from a paid session, or a whole task handed to a headless GLM agent |
 | [fenrir-boss](https://github.com/Matswm86/fenrir-boss) | A simulated workplace that trains you: an AI boss who assigns tickets, reviews your code and never writes it |
-| [oso-sync](https://github.com/Matswm86/oso-sync) | Obsidian plus Syncthing plus Ollama: an always-on personal AI notes stack with nothing in the cloud |
+| [oso-sync](https://github.com/Matswm86/oso-sync) | Obsidian plus Syncthing plus Ollama: write a question in a synced note and a small Python responder appends the answer in place. Groq first, local Ollama as the fallback, or fully local if you skip the key |
 
 ### Apps and games for Android
 
@@ -62,13 +62,14 @@ internet permission at all.
 
 | Repo | What it is |
 |---|---|
-| [mwm-reader](https://github.com/Matswm86/mwm-reader) | Ad-free offline reader: PDF, EPUB, Office, and code in 60+ languages |
+| [mwm-reader](https://github.com/Matswm86/mwm-reader) | Ad-free offline reader: PDF, EPUB, Office, and code in about 80 file types |
 | [mwm-music](https://github.com/Matswm86/mwm-music) | A quiet Winamp-style player for local files |
 | [mwm-chess](https://github.com/Matswm86/mwm-chess) | Beginner-friendly 3D chess that shows every legal move. New: medieval silver-and-gold pieces that glide between squares, and online play with a friend via a 4-letter game code |
 | [mwm-compass](https://github.com/Matswm86/mwm-compass) | New: a plain, precise retro compass with magnetic or true north, a bearing mark and a bubble level. No internet permission |
 | [mwm-cloud](https://github.com/Matswm86/mwm-cloud) | Backs your phone up to storage you own, then proves the backup actually worked |
 | [pm98-android](https://github.com/Matswm86/pm98-android) | Premier Manager 98 rebuilt from the original game's own files, full 1997-98 database |
-| [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of older games from their own data, not from memory |
+| [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of older games from their own data, not from memory. sar2007-android is still at the stage of unpacking the game's files |
+| [fishy](https://github.com/Matswm86/fishy) | The 2003 Flash game Fishy on Android, with its original art, music and rules: eat the smaller fish, stay away from the bigger ones |
 | [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [tile-explorer](https://github.com/Matswm86/tile-explorer) | Small puzzle games in Godot 4. Tile Explorer just moved onto a walnut table with a felt mat |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [play.mwmai.no](https://play.mwmai.no/), honest about what the research does and does not show |
 

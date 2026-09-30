@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Twenty-six public repositories,
+with an AI coding assistant, and everything below runs today. **Twenty-eight public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. I have started on my Python education, will take my first Azure certification (AI-901) in October, and hopefully land a real job doing something AI related soon! 
 
@@ -73,6 +73,8 @@ internet permission at all.
 | [fishy](https://github.com/Matswm86/fishy) | The 2003 Flash game Fishy on Android, with its original art, music and rules: eat the smaller fish, stay away from the bigger ones |
 | [krypton-egg](https://github.com/Matswm86/krypton-egg) | Krypton Egg, the Breakout game from the 1996 C2V Games Suite CD, on Android: all 100 levels, the art and the sound come off the original disc |
 | [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [tile-explorer](https://github.com/Matswm86/tile-explorer) | Small puzzle games in Godot 4. Tile Explorer just moved onto a walnut table with a felt mat |
+| [water-sort](https://github.com/Matswm86/water-sort) | A colour-sorting water puzzle in Godot 4. Endless levels, each checked solvable by a built-in solver before you see it, plus unlimited undo. No internet permission |
+| [timber-valley](https://github.com/Matswm86/timber-valley) | A calm 3D lumber mill: chop trees, saw planks, sell them at a market and spend the money on machines, workers and factories. No timers |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [play.mwmai.no](https://play.mwmai.no/), honest about what the research does and does not show |
 
 ### And one small one

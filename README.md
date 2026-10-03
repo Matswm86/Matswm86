@@ -37,12 +37,12 @@ format. The Android half, PyQuest, now lives in the same repo: 325 questions acr
 no typing, including 94 AI-901 exam questions with choose-N answers, because writing Python on a
 phone keyboard is miserable and pretending otherwise helps nobody.
 
-**[VibeOS](https://github.com/Matswm86/vibeos)** · [vibeos.mwmai.no](https://vibeos.mwmai.no/)
-A bootable AI-native Linux distribution: Ubuntu, KDE, a local model and an agent CLI, installed
-in about ten minutes. **You choose the model and the provider.** It ships a small local model so
-it works offline on first boot, and you can swap it, point it at your own hosted account, or
-stay permanently offline. Not tied to one vendor. There is no public ISO download right now, so
-today you build it from the repo.
+**[Timber Valley](https://github.com/Matswm86/timber-valley)** · [download the APK](https://github.com/Matswm86/timber-valley/releases/download/latest/timber-valley.apk)
+A calm 3D lumber mill for Android: chop trees, saw planks, sell them at a market by the road and
+spend the money on machines, workers, conveyor belts and a crane-fed mega sawmill, across three
+valleys (Home Valley, Birch Bend, Maple Highlands). It is the fun part of those "idle arcade"
+phone ads without the ad-supported game around it: no ads, no in-app purchases, no timers, no
+analytics. Godot 4, built by GitHub Actions on every push.
 
 ---
 
@@ -51,6 +51,7 @@ today you build it from the repo.
 | Repo | What it is |
 |---|---|
 | [vivarium-agent-skills](https://github.com/Matswm86/vivarium-agent-skills) | A sourced reference pack for building glass habitats, written as 56 plain-Markdown files any model can read. Every number a decision rests on carries a URL; gaps say UNVERIFIED instead of guessing |
+| [vibeos](https://github.com/Matswm86/vibeos) | Work in progress: a bootable AI-native Linux distribution (Ubuntu, KDE, a local model and an agent CLI) where you choose the model and the provider. No public ISO yet; you build it from the repo |
 | [mwm-harness](https://github.com/Matswm86/mwm-harness) | Work in progress: my own agent harness for Qwen, Kimi and GLM, with a terminal prompt, a local browser panel, permissions, a sandbox, hooks, MCP and subagents |
 | [glm-free-claude-code](https://github.com/Matswm86/glm-free-claude-code) | Run free GLM 5.2 behind Claude Code: a full GLM session, one-shot offloads from a paid session, or a whole task handed to a headless GLM agent |
 | [fenrir-boss](https://github.com/Matswm86/fenrir-boss) | A simulated workplace that trains you: an AI boss who assigns tickets, reviews your code and never writes it |
@@ -74,7 +75,6 @@ internet permission at all.
 | [krypton-egg](https://github.com/Matswm86/krypton-egg) | Krypton Egg, the Breakout game from the 1996 C2V Games Suite CD, on Android: all 100 levels, the art and the sound come off the original disc |
 | [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [tile-explorer](https://github.com/Matswm86/tile-explorer) | Small puzzle games in Godot 4. Tile Explorer just moved onto a walnut table with a felt mat |
 | [water-sort](https://github.com/Matswm86/water-sort) | A colour-sorting water puzzle in Godot 4. Endless levels, each checked solvable by a built-in solver before you see it, plus unlimited undo. No internet permission |
-| [timber-valley](https://github.com/Matswm86/timber-valley) | A calm 3D lumber mill: chop trees, saw planks, sell them at a market and spend the money on machines, workers and factories. No timers |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [play.mwmai.no](https://play.mwmai.no/), honest about what the research does and does not show |
 
 ### And one small one

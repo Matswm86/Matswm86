@@ -24,8 +24,8 @@ says out loud when the tape moved for reasons the headlines had nothing to do wi
 front-end framework.
 
 **[TradingView Indicators](https://github.com/Matswm86/tradingview-indicators)**
-Seven free Pine Script v6 chart tools for intraday futures: EMA x VWAP Engulfing, LiqSweep+iFVG,
-Liquidity Map, Po3 4H, Trend Hub, Session Pulse and Mechanical Structure. The liquidity-sweep
+Six free Pine Script v6 chart tools for intraday futures: EMA x VWAP Engulfing, LiqSweep+iFVG,
+Liquidity Map, Po3 4H, Trend Hub and Session Pulse. The liquidity-sweep
 indicator has over 200 likes on TradingView, which is the only audience number here I did not have
 to qualify. Every script ships its reasoning: what it refuses to trade and why, not just where it
 draws a line. More advanced indicators are available for a monthly fee via

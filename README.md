@@ -24,10 +24,12 @@ says out loud when the tape moved for reasons the headlines had nothing to do wi
 front-end framework.
 
 **[TradingView Indicators](https://github.com/Matswm86/tradingview-indicators)**
-Seven Pine Script v6 chart tools for intraday futures. The liquidity-sweep indicator has over 200
-likes on TradingView, which is the only audience number here I did not have to qualify. Every
-script ships its reasoning: what it refuses to trade and why, not just where it draws a line.
-I also offer more advanced indicators for a monthly fee now via Whop. 
+Seven free Pine Script v6 chart tools for intraday futures: EMA x VWAP Engulfing, LiqSweep+iFVG,
+Liquidity Map, Po3 4H, Trend Hub, Session Pulse and Mechanical Structure. The liquidity-sweep
+indicator has over 200 likes on TradingView, which is the only audience number here I did not have
+to qualify. Every script ships its reasoning: what it refuses to trade and why, not just where it
+draws a line. More advanced indicators are available for a monthly fee via
+[Whop](https://whop.com/mwm-indicators/).
 
 **[Pytor and PyQuest](https://github.com/Matswm86/pylearn)** · live at [pytor.mwmai.no](https://pytor.mwmai.no/)
 Learn Python and AI engineering from absolute zero: 450 exercises across 9 topics, executing in

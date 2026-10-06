@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Thirty-one public repositories,
+with an AI coding assistant, and everything below runs today. **Thirty-three public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. I have started on my Python education, will take my first Azure certification (AI-901) in October, and hopefully land a real job doing something AI related soon! 
 
@@ -34,17 +34,17 @@ draws a line. More advanced indicators are available for a monthly fee via
 **[Pytor and PyQuest](https://github.com/Matswm86/pylearn)** · live at [pytor.mwmai.no](https://pytor.mwmai.no/)
 Learn Python and AI engineering from absolute zero: 450 exercises across 9 topics, executing in
 your browser with no install, plus a tutor that asks questions instead of handing over answers.
-The site got a new navy-and-teal look with dark mode, and a 74-question AI-901 drill in real exam
-format. The Android half, PyQuest, now lives in the same repo: 325 questions across 9 tiers and
-no typing, including 94 AI-901 exam questions with choose-N answers, because writing Python on a
-phone keyboard is miserable and pretending otherwise helps nobody.
+The site got a new navy-and-teal look with dark mode, and a 117-question AI-901 drill in real exam
+format. The Android half, PyQuest, now lives in the same repo: 477 questions across 10 tiers and
+no typing, including 157 AI-901 exam questions with choose-N answers and 45 for AI-103, because
+writing Python on a phone keyboard is miserable and pretending otherwise helps nobody.
 
 **[Timber Valley](https://github.com/Matswm86/timber-valley)** · [download the APK](https://github.com/Matswm86/timber-valley/releases/download/latest/timber-valley.apk)
 A calm 3D lumber mill for Android: chop trees, saw planks, sell them at a market by the road and
-spend the money on machines, workers, conveyor belts and a crane-fed mega sawmill, across three
-valleys (Home Valley, Birch Bend, Maple Highlands). It is the fun part of those "idle arcade"
-phone ads without the ad-supported game around it: no ads, no in-app purchases, no timers, no
-analytics. Godot 4, built by GitHub Actions on every push.
+spend the money on machines, workers, conveyor belts and a crane-fed mega sawmill, across five
+valleys (Home Valley, Birch Bend, Maple Highlands, Redwood Coast, Frost Peaks). It is the fun
+part of those "idle arcade" phone ads without the ad-supported game around it: no ads, no in-app
+purchases, no timers, no analytics. Godot 4, built by GitHub Actions on every push.
 
 ---
 
@@ -69,7 +69,7 @@ internet permission at all.
 | [mwm-reader](https://github.com/Matswm86/mwm-reader) | Ad-free offline reader: PDF, EPUB, Office, and code in about 80 file types |
 | [mwm-music](https://github.com/Matswm86/mwm-music) | A quiet Winamp-style player for local files |
 | [mwm-chess](https://github.com/Matswm86/mwm-chess) | Beginner-friendly 3D chess that shows every legal move. New: medieval silver-and-gold pieces that glide between squares, and online play with a friend via a 4-letter game code |
-| [mwm-compass](https://github.com/Matswm86/mwm-compass) | New: a plain, precise retro compass with magnetic or true north, a bearing mark and a bubble level. No internet permission |
+| [mwm-compass](https://github.com/Matswm86/mwm-compass) | New: a plain, precise compass with magnetic or true north, a bearing mark and a bubble level. No internet permission |
 | [mwm-cloud](https://github.com/Matswm86/mwm-cloud) | Backs your phone up to storage you own, then proves the backup actually worked |
 | [pm98-android](https://github.com/Matswm86/pm98-android) | Premier Manager 98 rebuilt from the original game's own files, full 1997-98 database |
 | [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of older games from their own data, not from memory. sar2007-android is still at the stage of unpacking the game's files |
@@ -77,7 +77,12 @@ internet permission at all.
 | [krypton-egg](https://github.com/Matswm86/krypton-egg) | Krypton Egg, the Breakout game from the 1996 C2V Games Suite CD, on Android: all 100 levels, the art and the sound come off the original disc |
 | [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [tile-explorer](https://github.com/Matswm86/tile-explorer) | Small puzzle games in Godot 4. Tile Explorer just moved onto a walnut table with a felt mat |
 | [water-sort](https://github.com/Matswm86/water-sort) | A colour-sorting water puzzle in Godot 4. Endless levels, each checked solvable by a built-in solver before you see it, plus unlimited undo. No internet permission |
+| [spotless](https://github.com/Matswm86/spotless) | A calm 3D cleaning and makeover game: bring a mossy sink, a rusty road sign or a muddy car back to new with a pressure washer, sponge, grinder, spray paint and polisher |
+| [mwm-play](https://github.com/Matswm86/mwm-play) | One app that gathers my calm games for children and families: Ball Connect, Water Sort, Tile Explorer, Spotless and Timber Valley. No ads, no tracking, works offline. A single parent-gated unlock is planned; the button says "Kommer snart" until it is wired in |
+| [mwm-les](https://github.com/Matswm86/mwm-les) | A 3D reading adventure for Norwegian children aged 4 to 7: sail to a grey island with a small narwhal, learn the letter sounds and bring the colour back. Every instruction is spoken in Norwegian, and there is no internet permission. An early test build with the first six sounds |
+| [yoda-translator](https://github.com/Matswm86/yoda-translator) | English and Norwegian to Yoda-speak, offline on the phone: a Gemma 3 1B fine-tuned for the job, with a rule engine as the fallback. The 1.1 GB model is a separate download, and Yoda's spoken voice is the only thing that uses the network |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [wiggle.mwmai.no](https://wiggle.mwmai.no/), honest about what the research does and does not show |
+| [rewind-quiz](https://github.com/Matswm86/rewind-quiz) | A multiplayer decades quiz for phones, live at [quiz.mwmai.no](https://quiz.mwmai.no): up to 20 players join with a 4-letter code and answer 25 or 50 questions from the 1950s to the 2000s |
 
 ### And one small one
 

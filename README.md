@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Thirty-three public repositories,
+with an AI coding assistant, and everything below runs today. **Forty-one public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. I have started on my Python education, will take my first Azure certification (AI-901) in October, and hopefully land a real job doing something AI related soon! 
 
@@ -9,6 +9,10 @@ I am most interested in the part where AI stops being a chatbot and becomes infr
 agent harnesses, tool servers, retrieval over a real corpus, and systems honest enough to tell
 you when they are wrong.
 My personal interest of trading and physics/philosophy aligns well with this and I have several projects currently kept private dealing with these subjects as well as what you might find here...
+
+![The mwmai.no front page with cards for finished work](docs/screenshot.png)
+
+*The front page of mwmai.no, where the live sites, Android apps and public repos are catalogued.*
 
 ---
 
@@ -35,8 +39,8 @@ draws a line. More advanced indicators are available for a monthly fee via
 Learn Python and AI engineering from absolute zero: 450 exercises across 9 topics, executing in
 your browser with no install, plus a tutor that asks questions instead of handing over answers.
 The site got a new navy-and-teal look with dark mode, and a 117-question AI-901 drill in real exam
-format. The Android half, PyQuest, now lives in the same repo: 477 questions across 10 tiers and
-no typing, including 157 AI-901 exam questions with choose-N answers and 45 for AI-103, because
+format. The Android half, PyQuest, now lives in the same repo: 654 questions across 10 tiers and
+no typing, including 157 AI-901 exam questions with choose-N answers and 222 for AI-103, because
 writing Python on a phone keyboard is miserable and pretending otherwise helps nobody.
 
 **[Timber Valley](https://github.com/Matswm86/timber-valley)** · [download the APK](https://github.com/Matswm86/timber-valley/releases/download/latest/timber-valley.apk)
@@ -53,7 +57,7 @@ purchases, no timers, no analytics. Godot 4, built by GitHub Actions on every pu
 | Repo | What it is |
 |---|---|
 | [vivarium-agent-skills](https://github.com/Matswm86/vivarium-agent-skills) | A sourced reference pack for building glass habitats, written as 56 plain-Markdown files any model can read. Every number a decision rests on carries a URL; gaps say UNVERIFIED instead of guessing |
-| [vibeos](https://github.com/Matswm86/vibeos) | Work in progress: a bootable AI-native Linux distribution (Ubuntu, KDE, a local model and an agent CLI) where you choose the model and the provider. No public ISO yet; you build it from the repo |
+| [vibeos](https://github.com/Matswm86/vibeos) | Work in progress: a bootable AI-native Linux distribution (Ubuntu, KDE, a local model and an agent CLI) where you choose the model and the provider. No ISO download at the moment; you build it from the repo |
 | [mwm-harness](https://github.com/Matswm86/mwm-harness) | Work in progress: my own agent harness for Qwen, Kimi and GLM, with a terminal prompt, a local browser panel, permissions, a sandbox, hooks, MCP and subagents |
 | [glm-free-claude-code](https://github.com/Matswm86/glm-free-claude-code) | Run free GLM 5.2 behind Claude Code: a full GLM session, one-shot offloads from a paid session, or a whole task handed to a headless GLM agent |
 | [fenrir-boss](https://github.com/Matswm86/fenrir-boss) | A simulated workplace that trains you: an AI boss who assigns tickets, reviews your code and never writes it |
@@ -70,16 +74,20 @@ internet permission at all.
 | [mwm-music](https://github.com/Matswm86/mwm-music) | A quiet Winamp-style player for local files |
 | [mwm-chess](https://github.com/Matswm86/mwm-chess) | Beginner-friendly 3D chess that shows every legal move. New: medieval silver-and-gold pieces that glide between squares, and online play with a friend via a 4-letter game code |
 | [mwm-compass](https://github.com/Matswm86/mwm-compass) | New: a plain, precise compass with magnetic or true north, a bearing mark and a bubble level. No internet permission |
+| [mwm-flashlight](https://github.com/Matswm86/mwm-flashlight) · [mwm-clock](https://github.com/Matswm86/mwm-clock) | Two more plain utilities in the same spirit: a flashlight with one big button, strobe, SOS and a screen light, and an alarm clock with timers and stopwatches. No ads, no account, no tracking, and neither asks for the internet permission |
 | [mwm-cloud](https://github.com/Matswm86/mwm-cloud) | Backs your phone up to storage you own, then proves the backup actually worked |
 | [pm98-android](https://github.com/Matswm86/pm98-android) | Premier Manager 98 rebuilt from the original game's own files, full 1997-98 database |
 | [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of older games from their own data, not from memory. sar2007-android is still at the stage of unpacking the game's files |
 | [fishy](https://github.com/Matswm86/fishy) | The 2003 Flash game Fishy on Android, with its original art, music and rules: eat the smaller fish, stay away from the bigger ones |
 | [krypton-egg](https://github.com/Matswm86/krypton-egg) | Krypton Egg, the Breakout game from the 1996 C2V Games Suite CD, on Android: all 100 levels, the art and the sound come off the original disc |
-| [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [tile-explorer](https://github.com/Matswm86/tile-explorer) | Small puzzle games in Godot 4. Tile Explorer just moved onto a walnut table with a felt mat |
+| [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [mwm-stackling](https://github.com/Matswm86/mwm-stackling) | Small puzzle games in Godot 4. Stackling, formerly Tile Explorer, is a tile-matching puzzle on a walnut table with a felt mat: tap tiles off layered stacks into a seven-slot tray and match three |
 | [water-sort](https://github.com/Matswm86/water-sort) | A colour-sorting water puzzle in Godot 4. Endless levels, each checked solvable by a built-in solver before you see it, plus unlimited undo. No internet permission |
 | [spotless](https://github.com/Matswm86/spotless) | A calm 3D cleaning and makeover game: bring a mossy sink, a rusty road sign or a muddy car back to new with a pressure washer, sponge, grinder, spray paint and polisher |
-| [mwm-play](https://github.com/Matswm86/mwm-play) | One app that gathers my calm games for children and families: Ball Connect, Water Sort, Tile Explorer, Spotless and Timber Valley. No ads, no tracking, works offline. A single parent-gated unlock is planned; the button says "Kommer snart" until it is wired in |
-| [mwm-les](https://github.com/Matswm86/mwm-les) | A 3D reading adventure for Norwegian children aged 4 to 7: sail to a grey island with a small narwhal, learn the letter sounds and bring the colour back. Every instruction is spoken in Norwegian, and there is no internet permission. An early test build with the first six sounds |
+| [mwm-neon-bricks](https://github.com/Matswm86/mwm-neon-bricks) · [mwm-reef-bite](https://github.com/Matswm86/mwm-reef-bite) · [mwm-orb-fence](https://github.com/Matswm86/mwm-orb-fence) · [mwm-race-riders](https://github.com/Matswm86/mwm-race-riders) | Four more children's games in Godot 4, each with an easy setting for ages 4 to 7 and a harder one for 8 and up: a neon brick breaker with 30 levels, an underwater eat-and-grow fish game, a wall-building game that fences in bouncing orbs, and a downhill racer with 96 races. Each is also inside MWM Play. No permissions asked |
+| [mwm-play](https://github.com/Matswm86/mwm-play) | One app that gathers my calm games for children and families, ten so far: Ball Connect, Water Sort, Stackling, Spotless, Timber Valley, Neon Bricks, Reef Bite, Orb Fence, Race Riders and MWM Les. No ads, no tracking, works offline. A single parent-gated unlock is planned; the button says "Kommer snart" until it is wired in |
+| [mwm-les](https://github.com/Matswm86/mwm-les) | A 3D reading adventure for Norwegian children aged 4 to 7: Pip the narwhal builds a bridge of letters so a lamb can cross the water, and the child finds letters by their sound, writes them in the sand and lays six short words. Every instruction is spoken in Norwegian, and there is no internet permission. An early test build with one island and nine letters |
+| [mwm-age-of-earth](https://github.com/Matswm86/mwm-age-of-earth) | Working title: a real-time strategy game for Android in the classic town-building genre, starting about 4.2 million years ago with early humans at an East African rift lake. An early playable build: the opening and the start of the first age work, while combat and computer opponents are not built yet |
+| [mwm-wayfarer](https://github.com/Matswm86/mwm-wayfarer) | Working title: a realistic open-world game in which you live through human history, from the first apes in East Africa to today. The APK so far is only a graphics and performance test of a real Norwegian fjord valley; the game itself is not built yet |
 | [yoda-translator](https://github.com/Matswm86/yoda-translator) | English and Norwegian to Yoda-speak, offline on the phone: a Gemma 3 1B fine-tuned for the job, with a rule engine as the fallback. The 1.1 GB model is a separate download, and Yoda's spoken voice is the only thing that uses the network |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [wiggle.mwmai.no](https://wiggle.mwmai.no/), honest about what the research does and does not show |
 | [rewind-quiz](https://github.com/Matswm86/rewind-quiz) | A multiplayer decades quiz for phones, live at [quiz.mwmai.no](https://quiz.mwmai.no): up to 20 players join with a 4-letter code and answer 25 or 50 questions from the 1950s to the 2000s |

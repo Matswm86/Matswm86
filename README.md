@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Forty-one public repositories,
+with an AI coding assistant, and everything below runs today. **Forty public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. 
 I have started on my Python education, just passed my first Azure certification (AI-901) in October, and will take the AI-103 before the end of the year. Hopefully I'll land a real job doing something AI related soon! 
@@ -39,8 +39,8 @@ draws a line. More advanced indicators are available for a monthly fee via
 **[Pytor and PyQuest](https://github.com/Matswm86/pylearn)** · live at [pytor.mwmai.no](https://pytor.mwmai.no/)
 Learn Python and AI engineering from absolute zero: 450 exercises across 9 topics, executing in
 your browser with no install, plus a tutor that asks questions instead of handing over answers.
-The site got a new navy-and-teal look with dark mode, and a 117-question AI-901 drill in real exam
-format. The Android half, PyQuest, now lives in the same repo: 654 questions across 10 tiers and
+The site got a new navy-and-teal look with dark mode, and its AI-901 and AI-103 drills come with
+84 drag-block puzzles. The Android half, PyQuest, now lives in the same repo: 654 questions across 10 tiers and
 no typing, including 157 AI-901 exam questions with choose-N answers and 222 for AI-103, because
 writing Python on a phone keyboard is miserable and pretending otherwise helps nobody.
 
@@ -85,7 +85,6 @@ internet permission at all.
 | [water-sort](https://github.com/Matswm86/water-sort) | A colour-sorting water puzzle in Godot 4. Endless levels, each checked solvable by a built-in solver before you see it, plus unlimited undo. No internet permission |
 | [spotless](https://github.com/Matswm86/spotless) | A calm 3D cleaning and makeover game: bring a mossy sink, a rusty road sign or a muddy car back to new with a pressure washer, sponge, grinder, spray paint and polisher |
 | [mwm-neon-bricks](https://github.com/Matswm86/mwm-neon-bricks) · [mwm-reef-bite](https://github.com/Matswm86/mwm-reef-bite) · [mwm-orb-fence](https://github.com/Matswm86/mwm-orb-fence) · [mwm-race-riders](https://github.com/Matswm86/mwm-race-riders) | Four more children's games in Godot 4, each with an easy setting for ages 4 to 7 and a harder one for 8 and up: a neon brick breaker with 30 levels, an underwater eat-and-grow fish game, a wall-building game that fences in bouncing orbs, and a downhill racer with 96 races. Each is also inside MWM Play. No permissions asked |
-| [mwm-play](https://github.com/Matswm86/mwm-play) | One app that gathers my calm games for children and families, ten so far: Ball Connect, Water Sort, Stackling, Spotless, Timber Valley, Neon Bricks, Reef Bite, Orb Fence, Race Riders and MWM Les. No ads, no tracking, works offline. A single parent-gated unlock is planned; the button says "Kommer snart" until it is wired in |
 | [mwm-les](https://github.com/Matswm86/mwm-les) | A 3D reading adventure for Norwegian children aged 4 to 7: Pip the narwhal builds a bridge of letters so a lamb can cross the water, and the child finds letters by their sound, writes them in the sand and lays six short words. Every instruction is spoken in Norwegian, and there is no internet permission. An early test build with one island and nine letters |
 | [mwm-age-of-earth](https://github.com/Matswm86/mwm-age-of-earth) | Working title: a real-time strategy game for Android in the classic town-building genre, starting about 4.2 million years ago with early humans at an East African rift lake. An early playable build: the opening and the start of the first age work, while combat and computer opponents are not built yet |
 | [mwm-wayfarer](https://github.com/Matswm86/mwm-wayfarer) | Working title: a realistic open-world game in which you live through human history, from the first apes in East Africa to today. The APK so far is only a graphics and performance test of a real Norwegian fjord valley; the game itself is not built yet |

@@ -3,7 +3,8 @@
 I got no computer-science degree and no team. I started from zero in early 2025
 with an AI coding assistant, and everything below runs today. **Forty-one public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
-than a shop. I have started on my Python education, will take my first Azure certification (AI-901) in October, and hopefully land a real job doing something AI related soon! 
+than a shop. 
+I have started on my Python education, just passed my first Azure certification (AI-901) in October, and will take the AI-103 before the end of the year. Hopefully I'll land a real job doing something AI related soon! 
 
 I am most interested in the part where AI stops being a chatbot and becomes infrastructure:
 agent harnesses, tool servers, retrieval over a real corpus, and systems honest enough to tell

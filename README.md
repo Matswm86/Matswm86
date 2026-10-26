@@ -19,7 +19,7 @@ My personal interest of trading and physics/philosophy aligns well with this and
 
 ### Start here
 
-**[The Morning Brief](https://brief.mwmai.no/)** · the newspaper reads free; the machine-readable morning feed for agents is paid at agents.mwmai.no
+**[The Morning Brief](https://github.com/Matswm86/mwm-morning-brief)** · [live](https://brief.mwmai.no/); the newspaper reads free, the machine-readable morning feed for agents is paid at agents.mwmai.no
 A trading newspaper for MNQ and MGC futures that typesets itself through the day, now in its
 third broadsheet edition: rotating headlines, masthead ears and a Funny Pages strip. It forecasts
 how *big* the session will be, never which direction, and prints its own hit rate next to every
@@ -44,13 +44,6 @@ The site got a new navy-and-teal look with dark mode, and its AI-901 and AI-103 
 no typing, including 157 AI-901 exam questions with choose-N answers and 222 for AI-103, because
 writing Python on a phone keyboard is miserable and pretending otherwise helps nobody.
 
-**[Timber Valley](https://github.com/Matswm86/timber-valley)** · [download the APK](https://github.com/Matswm86/timber-valley/releases/download/latest/timber-valley.apk)
-A calm 3D lumber mill for Android: chop trees, saw planks, sell them at a market by the road and
-spend the money on machines, workers, conveyor belts and a crane-fed mega sawmill, across five
-valleys (Home Valley, Birch Bend, Maple Highlands, Redwood Coast, Frost Peaks). It is the fun
-part of those "idle arcade" phone ads without the ad-supported game around it: no ads, no in-app
-purchases, no timers, no analytics. Godot 4, built by GitHub Actions on every push.
-
 ---
 
 ### Tools and agents
@@ -59,7 +52,6 @@ purchases, no timers, no analytics. Godot 4, built by GitHub Actions on every pu
 |---|---|
 | [vivarium-agent-skills](https://github.com/Matswm86/vivarium-agent-skills) | A sourced reference pack for building glass habitats, written as 56 plain-Markdown files any model can read. Every number a decision rests on carries a URL; gaps say UNVERIFIED instead of guessing |
 | [vibeos](https://github.com/Matswm86/vibeos) | Work in progress: a bootable AI-native Linux distribution (Ubuntu, KDE, a local model and an agent CLI) where you choose the model and the provider. No ISO download at the moment; you build it from the repo |
-| [mwm-harness](https://github.com/Matswm86/mwm-harness) | Work in progress: my own agent harness for Qwen, Kimi and GLM, with a terminal prompt, a local browser panel, permissions, a sandbox, hooks, MCP and subagents |
 | [glm-free-claude-code](https://github.com/Matswm86/glm-free-claude-code) | Run free GLM 5.2 behind Claude Code: a full GLM session, one-shot offloads from a paid session, or a whole task handed to a headless GLM agent |
 | [fenrir-boss](https://github.com/Matswm86/fenrir-boss) | A simulated workplace that trains you: an AI boss who assigns tickets, reviews your code and never writes it |
 | [oso-sync](https://github.com/Matswm86/oso-sync) | Obsidian plus Syncthing plus Ollama: write a question in a synced note and a small Python responder appends the answer in place. Groq first, local Ollama as the fallback, or fully local if you skip the key |
@@ -71,24 +63,14 @@ internet permission at all.
 
 | Repo | What it is |
 |---|---|
-| [mwm-reader](https://github.com/Matswm86/mwm-reader) | Ad-free offline reader: PDF, EPUB, Office, and code in about 80 file types |
-| [mwm-music](https://github.com/Matswm86/mwm-music) | A quiet Winamp-style player for local files |
-| [mwm-chess](https://github.com/Matswm86/mwm-chess) | Beginner-friendly 3D chess that shows every legal move. New: medieval silver-and-gold pieces that glide between squares, and online play with a friend via a 4-letter game code |
-| [mwm-compass](https://github.com/Matswm86/mwm-compass) | New: a plain, precise compass with magnetic or true north, a bearing mark and a bubble level. No internet permission |
-| [mwm-flashlight](https://github.com/Matswm86/mwm-flashlight) · [mwm-clock](https://github.com/Matswm86/mwm-clock) | Two more plain utilities in the same spirit: a flashlight with one big button, strobe, SOS and a screen light, and an alarm clock with timers and stopwatches. No ads, no account, no tracking, and neither asks for the internet permission |
-| [mwm-cloud](https://github.com/Matswm86/mwm-cloud) | Backs your phone up to storage you own, then proves the backup actually worked |
-| [pm98-android](https://github.com/Matswm86/pm98-android) | Premier Manager 98 rebuilt from the original game's own files, full 1997-98 database |
-| [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | More rebuilds of older games from their own data, not from memory. sar2007-android is still at the stage of unpacking the game's files |
+| [mwm-chess](https://github.com/Matswm86/mwm-chess) | Beginner-friendly 3D chess that shows every legal move: play the computer at four levels, a friend on one phone, or a friend online with a game code |
+| [pm98-android](https://github.com/Matswm86/pm98-android) · [pcleague](https://github.com/Matswm86/pcleague) · [USM2](https://github.com/Matswm86/USM2) · [sar2007-android](https://github.com/Matswm86/sar2007-android) | Rebuilds of older football-management games from their own data, not from memory: Premier Manager 98 across 476 clubs on the original ratings (the positional match view is still being built), PcLeague 2.1 with its full 1994 database of 92 clubs and 1733 players, a playable USM2 career, and sar2007-android still at the stage of unpacking the game's files |
 | [fishy](https://github.com/Matswm86/fishy) | The 2003 Flash game Fishy on Android, with its original art, music and rules: eat the smaller fish, stay away from the bigger ones |
 | [krypton-egg](https://github.com/Matswm86/krypton-egg) | Krypton Egg, the Breakout game from the 1996 C2V Games Suite CD, on Android: all 100 levels, the art and the sound come off the original disc |
-| [jezzball](https://github.com/Matswm86/jezzball) · [ball-connect](https://github.com/Matswm86/ball-connect) · [mwm-stackling](https://github.com/Matswm86/mwm-stackling) | Small puzzle games in Godot 4. Stackling, formerly Tile Explorer, is a tile-matching puzzle on a walnut table with a felt mat: tap tiles off layered stacks into a seven-slot tray and match three |
-| [water-sort](https://github.com/Matswm86/water-sort) | A colour-sorting water puzzle in Godot 4. Endless levels, each checked solvable by a built-in solver before you see it, plus unlimited undo. No internet permission |
-| [spotless](https://github.com/Matswm86/spotless) | A calm 3D cleaning and makeover game: bring a mossy sink, a rusty road sign or a muddy car back to new with a pressure washer, sponge, grinder, spray paint and polisher |
-| [mwm-neon-bricks](https://github.com/Matswm86/mwm-neon-bricks) · [mwm-reef-bite](https://github.com/Matswm86/mwm-reef-bite) · [mwm-orb-fence](https://github.com/Matswm86/mwm-orb-fence) · [mwm-race-riders](https://github.com/Matswm86/mwm-race-riders) | Four more children's games in Godot 4, each with an easy setting for ages 4 to 7 and a harder one for 8 and up: a neon brick breaker with 30 levels, an underwater eat-and-grow fish game, a wall-building game that fences in bouncing orbs, and a downhill racer with 96 races. Each is also inside MWM Play. No permissions asked |
-| [mwm-les](https://github.com/Matswm86/mwm-les) | A 3D reading adventure for Norwegian children aged 4 to 7: Pip the narwhal builds a bridge of letters so a lamb can cross the water, and the child finds letters by their sound, writes them in the sand and lays six short words. Every instruction is spoken in Norwegian, and there is no internet permission. An early test build with one island and nine letters |
+| [jezzball](https://github.com/Matswm86/jezzball) | Faithful Godot 4 remake of the 1992 JezzBall: swipe to wall off 70% of the field before the bouncing atoms break your walls, across 50 levels |
 | [mwm-age-of-earth](https://github.com/Matswm86/mwm-age-of-earth) | Working title: a real-time strategy game for Android in the classic town-building genre, starting about 4.2 million years ago with early humans at an East African rift lake. An early playable build: the opening and the start of the first age work, while combat and computer opponents are not built yet |
 | [mwm-wayfarer](https://github.com/Matswm86/mwm-wayfarer) | Working title: a realistic open-world game in which you live through human history, from the first apes in East Africa to today. The APK so far is only a graphics and performance test of a real Norwegian fjord valley; the game itself is not built yet |
-| [yoda-translator](https://github.com/Matswm86/yoda-translator) | English and Norwegian to Yoda-speak, offline on the phone: a Gemma 3 1B fine-tuned for the job, with a rule engine as the fallback. The 1.1 GB model is a separate download, and Yoda's spoken voice is the only thing that uses the network |
+| [yoda-translator](https://github.com/Matswm86/yoda-translator) | English and Norwegian to Yoda-speak, offline on the phone: a Gemma 3 1B fine-tuned for the job, with a rule engine as the fallback |
 | [wiggle-and-think](https://github.com/Matswm86/wiggle-and-think) | Movement breaks for children aged 4 to 7, live at [wiggle.mwmai.no](https://wiggle.mwmai.no/), honest about what the research does and does not show |
 | [rewind-quiz](https://github.com/Matswm86/rewind-quiz) | A multiplayer decades quiz for phones, live at [quiz.mwmai.no](https://quiz.mwmai.no): up to 20 players join with a 4-letter code and answer 25 or 50 questions from the 1950s to the 2000s |
 

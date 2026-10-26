@@ -19,7 +19,7 @@ My personal interest of trading and physics/philosophy aligns well with this and
 
 ### Start here
 
-**[The Morning Brief](https://github.com/Matswm86/mwm-morning-brief)** · live at [brief.mwmai.no](https://brief.mwmai.no/)
+**[The Morning Brief](https://brief.mwmai.no/)** · the newspaper reads free; the machine-readable morning feed for agents is paid at agents.mwmai.no
 A trading newspaper for MNQ and MGC futures that typesets itself through the day, now in its
 third broadsheet edition: rotating headlines, masthead ears and a Funny Pages strip. It forecasts
 how *big* the session will be, never which direction, and prints its own hit rate next to every

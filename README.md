@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Thirty-eight public repositories,
+with an AI coding assistant, and everything below runs today. **Twenty-three public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. 
 I have started on my Python education, just passed my first Azure certification (AI-901) in October, and will take the AI-103 before the end of the year. Hopefully I'll land a real job doing something AI related soon! 

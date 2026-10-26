@@ -1,7 +1,7 @@
 ## Hei. I build things with AI. Heck, it even wrote this! 
 
 I got no computer-science degree and no team. I started from zero in early 2025
-with an AI coding assistant, and everything below runs today. **Twenty-three public repositories,
+with an AI coding assistant, and everything below runs today. **Twenty-two public repositories,
 many live sites.** Nobody has paid me for any of it yet, so read this as a workshop rather
 than a shop. 
 I have started on my Python education, just passed my first Azure certification (AI-901) in October, and will take the AI-103 before the end of the year. Hopefully I'll land a real job doing something AI related soon! 
@@ -18,15 +18,6 @@ My personal interest of trading and physics/philosophy aligns well with this and
 ---
 
 ### Start here
-
-**[The Morning Brief](https://github.com/Matswm86/mwm-morning-brief)** · [live](https://brief.mwmai.no/); the newspaper reads free, the machine-readable morning feed for agents is paid at agents.mwmai.no
-A trading newspaper for MNQ and MGC futures that typesets itself through the day, now in its
-third broadsheet edition: rotating headlines, masthead ears and a Funny Pages strip. It forecasts
-how *big* the session will be, never which direction, and prints its own hit rate next to every
-call. A 15:25 Oslo regime lens and an intraday read validated on 252 held-out sessions sit beside
-a Strategy Desk that reviews yesterday and last week against what the news wire actually ran, and
-says out loud when the tape moved for reasons the headlines had nothing to do with. Python, no
-front-end framework.
 
 **[TradingView Indicators](https://github.com/Matswm86/tradingview-indicators)**
 Six free Pine Script v6 chart tools for intraday futures: EMA x VWAP Engulfing, LiqSweep+iFVG,
